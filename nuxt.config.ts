@@ -99,7 +99,7 @@ export default defineNuxtConfig({
       custom: {
         provider: '~/providers/custom',
         options: {
-          baseURL: 'https://site.my'
+          baseURL: 'https://elaborate-cucurucho-09eef4.netlify.app/'
         }
       }
     },
